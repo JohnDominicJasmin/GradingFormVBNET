@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\GRadingFormAct4\GRadingFormAct4\bin\Debug\GRadingFormAct4.exe.config
+C:\Users\Admin\source\repos\GRadingFormAct4\GRadingFormAct4\bin\Debug\GRadingFormAct4.exe
+C:\Users\Admin\source\repos\GRadingFormAct4\GRadingFormAct4\bin\Debug\GRadingFormAct4.pdb
+C:\Users\Admin\source\repos\GRadingFormAct4\GRadingFormAct4\bin\Debug\GRadingFormAct4.xml
+C:\Users\Admin\source\repos\GRadingFormAct4\GRadingFormAct4\obj\Debug\GRadingFormAct4.Resources.resources
+C:\Users\Admin\source\repos\GRadingFormAct4\GRadingFormAct4\obj\Debug\GRadingFormAct4.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GRadingFormAct4\GRadingFormAct4\obj\Debug\GRadingFormAct4.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GRadingFormAct4\GRadingFormAct4\obj\Debug\GRadingFormAct4.exe
+C:\Users\Admin\source\repos\GRadingFormAct4\GRadingFormAct4\obj\Debug\GRadingFormAct4.xml
+C:\Users\Admin\source\repos\GRadingFormAct4\GRadingFormAct4\obj\Debug\GRadingFormAct4.pdb
+C:\Users\Admin\source\repos\GRadingFormAct4\GRadingFormAct4\obj\Debug\GRadingFormAct4.Dashboard.resources
