@@ -1,2 +1,2 @@
 # GradingFormVBNET
-![](GradingFormVBNET/gradingform.jpg)
+![](gradingform.jpg)
