@@ -1,2 +1,2 @@
 # GradingFormVBNET
-A simple Grading Form using .netframework 
+![](GradingFormVBNET/gradingform.jpg)
